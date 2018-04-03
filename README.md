@@ -35,7 +35,7 @@ body{
 
     
     
-    </style>
+</style>
 </head>
 <body>
     <div class='card'>
